@@ -1,0 +1,21 @@
+#bar {
+    width: 400px;
+    height: 200px;
+    /* Other styles */
+  }
+
+#gauge{
+    width: 200px;
+    height: 200px;
+
+  }
+
+#bubbleChart{
+    width: 1000px;
+    height: 1000px;
+
+}
+#myList ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+  }
